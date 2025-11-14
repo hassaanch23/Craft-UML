@@ -110,8 +110,4 @@ This repository does not contain a LICENSE file. Add a license (for example ISC,
 
 ---
 
-If you'd like, I can also:
 
-- add a minimal `LICENSE` file (you pick the license),
-- create a quick `.github/ISSUE_TEMPLATE.md` and `PULL_REQUEST_TEMPLATE.md`, or
-- update the `pom.xml` to include a `maven-jar-plugin` configuration for a runnable jar.
