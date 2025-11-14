@@ -104,9 +104,7 @@ Top-level layout (relevant folders/files):
 
 - Muhammad Hassaan — `@hassaanch23`
 
-## License
 
-This repository does not contain a LICENSE file. Add a license (for example ISC, MIT, or Apache-2.0) if you want to explicitly permit use and contributions.
 
 ---
 
